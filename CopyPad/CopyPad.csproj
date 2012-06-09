@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>noticon_l.ico</ApplicationIcon>
+    <ApplicationIcon>Resources\noticon_l.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -74,8 +74,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="noticon.png" />
-    <Content Include="noticon_l.ico" />
     <None Include="Resources\noticon_l.ico" />
     <None Include="Resources\noticon.ico" />
   </ItemGroup>
