@@ -20,9 +20,9 @@ namespace CopyPad
 			MenuItem item;
 
 			emoticons = new List<string>();
+			emoticons.Add(@"ಠ_ಠ");
 			emoticons.Add(@"(⌐■_■)");
 			emoticons.Add(@"('x_x)G-(._.Q)");
-			emoticons.Add(@"ಠ_ಠ");
 			emoticons.Add(@"( ¬‿¬)");
 			emoticons.Add(@"(◕‿◕✿)");
 			emoticons.Add(@"(◑‿◐)");
@@ -36,9 +36,19 @@ namespace CopyPad
 			emoticons.Add(@"┬─┬ノ( º _ ºノ)");
 			emoticons.Add(@"☉‿☉");
 			emoticons.Add(@"╭∩╮（︶︿︶）╭∩╮");
+			emoticons.Add(@"┌П┐(◉_◉)┌П┐");
 			emoticons.Add(@"⊙﹏⊙");
 			emoticons.Add(@"✲ﾟ｡.(✿╹◡╹)ﾉ☆.｡₀:*ﾟ✲");
 			emoticons.Add(@"◕‿◕");
+			emoticons.Add(@"( ﾟ∩ﾟ)");
+			emoticons.Add(@"(ﾉﾟ-ﾟ)ﾉ");
+			emoticons.Add(@"ヽ(´ー｀)ﾉ♥ヽ(´ー｀)ﾉ");
+			emoticons.Add(@"¯\(°_o)/¯");
+			emoticons.Add(@"♪┌|°з°|┘♪");
+			emoticons.Add(@"♪└|°ε°|┐♪");
+			emoticons.Add(@"ヽ( ﾟヮ・)ノ");
+			emoticons.Add(@"¯\_(ツ)_/¯");
+			emoticons.Add(@"└(^o^)┘");
 
 			foreach (String emoticon in emoticons)
 			{
